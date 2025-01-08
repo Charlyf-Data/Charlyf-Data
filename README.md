@@ -10,7 +10,7 @@ After several years as a social coordinator, I successfully transitioned into da
 - **Data Librairies :** Pandas, NumPy
 - **Databases :** MySQL, NoSQL
 - **Machine Learning :** Scikit-learn
-- **Other Tools :** Git, Jupyter Notebook, Excel
+- **Other Tools :** Visual Studio Code, Git, Jupyter Notebook, Excel
 - **Languages :** English, French
 - **Web Scraping:** Selenium, BeautifulSoup, Helium,
 - **Operating Systems:** Linux 
