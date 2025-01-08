@@ -36,7 +36,7 @@ After several years as a social coordinator, I successfully transitioned into da
   -  Step 2 : Use of machine learning to train a model of recommendation
   -  Step 3 : Create a user friendly app easy to use
 - 🔧 **Tools :** Python, Pandas, Streamlit, Scikit Learn (ML), API Requests
-- 🌟 [Link to the project]((https://wildflix-projet.streamlit.app/))
+- 🌟 [Link to the project](https://wildflix-projet.streamlit.app/)
 
 
 ## 🎓 Education 
