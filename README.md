@@ -48,11 +48,11 @@ After several years as a social coordinator, I successfully transitioned into da
 
 ### Python - Codecademy 1 years - 2023/2024
 
-📄 Description: I have focused on mastering Python through self-learning and Codecademy courses. This journey included building foundational skills, solving real-world problems
-⚙ Skills: Python, Web Scraping, API, 
+- 📄 Description: I have focused on mastering Python through self-learning and Codecademy courses. This journey included building foundational skills, solving real-world problems
+- ⚙ Skills: Python, Web Scraping, API, 
 
 ### Social coordiante - Bpjeps - 2012
 
-📄 Description: This program emphasized project management, community engagement, and social coordination, focusing on understanding complex human dynamics and managing diverse groups. It provided practical experience in analyzing data to design effective programs, solving problems creatively, and presenting insights to stakeholders. These skills form a strong foundation for data analysis, critical thinking, and communication.
+- 📄 Description: This program emphasized project management, community engagement, and social coordination, focusing on understanding complex human dynamics and managing diverse groups. It provided practical experience in analyzing data to design effective programs, solving problems creatively, and presenting insights to stakeholders. These skills form a strong foundation for data analysis, critical thinking, and communication.
 
-⚙ Skills: Data Analysis, Critical Thinking, Problem Solving, Project Management, Stakeholder Communication, Team Collaboration, Adaptability
+- ⚙ Skills: Data Analysis, Critical Thinking, Problem Solving, Project Management, Stakeholder Communication, Team Collaboration, Adaptability
